@@ -1,16 +1,28 @@
-# clima
+# WeatherApp Flutter
 
-A new Flutter project.
+Este é um aplicativo móvel desenvolvido em Flutter que fornece informações meteorológicas de sua localização atual e permite buscar informações de outras cidades.
+Foi realizado com intuito de primeiro contato coma linguagem flutter para treino e adaptação.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Exibição do clima atual da sua cidade.
+- Pesquisa e exibição do clima de outras cidades.
+- Detalhes do clima, incluindo temperatura, condições climáticas, etc.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tecnologias Utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- API de Clima (ex: OpenWeatherMap, WeatherAPI, etc.)
+
+## Configuração
+
+Para executar o aplicativo:
+
+1. Instale o Flutter em sua máquina. [Guia de Instalação do Flutter](https://flutter.dev/docs/get-started/install)
+2. Clone este repositório.
+3. Adicione suas chaves de API de clima no arquivo `main`.
+4. Execute o aplicativo com o comando `flutter run`.
+
+
