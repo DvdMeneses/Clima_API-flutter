@@ -5,7 +5,7 @@ Foi realizado com intuito de primeiro contato coma linguagem flutter para treino
 
 ## Funcionalidades
 
-- Exibição do clima atual da sua cidade.
+- Exibição do clima atual da sua cidade através da localização atual do seu GPS.
 - Pesquisa e exibição do clima de outras cidades.
 - Detalhes do clima, incluindo temperatura, condições climáticas, etc.
 
@@ -14,7 +14,7 @@ Foi realizado com intuito de primeiro contato coma linguagem flutter para treino
 
 - Flutter
 - Dart
-- API de Clima (ex: OpenWeatherMap, WeatherAPI, etc.)
+- API de Clima (WeatherAPI)
 
 ## Configuração
 
