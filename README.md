@@ -3,6 +3,10 @@
 Este é um aplicativo móvel desenvolvido em Flutter que fornece informações meteorológicas de sua localização atual e permite buscar informações de outras cidades.
 Foi realizado com intuito de primeiro contato coma linguagem flutter para treino e adaptação.
 
+
+https://github.com/DvdMeneses/WeatherApp-Flutter/assets/115294207/c96a04a8-84f4-4abd-a033-55162b7e0f6b
+
+
 ## Funcionalidades
 
 - Exibição do clima atual da sua cidade através da localização atual do seu GPS.
